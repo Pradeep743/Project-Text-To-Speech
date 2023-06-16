@@ -8,7 +8,7 @@ desired output. Web speech API has been used in this project.
 
 ### Links
 
-- Live Site URL : [Text to Speech]()
+- Live Site URL : [Text to Speech](https://pradeep743.github.io/Project-Text-To-Speech/)
 
 ### Built with
 
