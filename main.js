@@ -25,10 +25,6 @@ function populateVoices() {
 }
 
 
-if (msg.onvoiceschanged !== undefined) {
-    msg.onvoiceschanged = voices.getVoices();
-}
-
 
 // Detecting which voice is selected
 function setVoice() {
